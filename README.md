@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @dineshkumar20060924
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<html>
+<head>
+</head>
+<title>HICET</title>
+<body>
+hicet
+</body>
+</html>
 
 <!---
 dineshkumar20060924/dineshkumar20060924 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
